@@ -1,4 +1,4 @@
 # tic-tac-toe
-❌|️❌|⭕
-❌|⭕️|❌ A tic-tac toe implementation in Python
+❌|️❌|⭕<br/>
+❌|⭕️|❌ A tic-tac toe implementation in Python<br/>
 ❌|️⭕|⭕
